@@ -1,0 +1,1 @@
+This was a project for our subject DBMS in sem 8 of our 6 year course B.Tech Integrated. We implemented a dock management system that will store data of various ships, workers and passengers if any. We used PHPMyAdmin to create the MySQL Database and we created values by ourselves to simulate the usecases.
